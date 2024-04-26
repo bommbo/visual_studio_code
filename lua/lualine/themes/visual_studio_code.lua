@@ -1,7 +1,7 @@
 local colors = {}
 
 colors.foreground = "#FFFFFF"
-colors.background = "#000000"
+colors.background = "#181818"
 colors.header_background = "#007ACC"
 
 local component_colors = {
